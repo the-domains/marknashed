@@ -1,0 +1,28 @@
+name: marknashed
+favicon: null
+layout_spectrum: 0.4909409247338772
+typography_spectrum: 0.6501766529399902
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5512936792802066
+  lightness: 0.8436341560445726
+  saturation: 0.763237746199593
+  rhythmicContrast: 0.25764169078320265
+purpose: []
