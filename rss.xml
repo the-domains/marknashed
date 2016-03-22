@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Mark Nashed]]></title>
+        <description><![CDATA[Mark Nashed]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 22 Mar 2016 06:35:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>undefined57905aa8-a537-41a6-a9c0-a762e3e1c935/index.html</link>
+            <guid isPermaLink="false">57905aa8-a537-41a6-a9c0-a762e3e1c935</guid>
+            <pubDate>Tue, 22 Mar 2016 06:35:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
