@@ -1,16 +1,25 @@
 ---
-title: Duffy Days
-datePublished: '2016-04-22T19:59:51.091Z'
-dateModified: '2016-04-22T19:57:31.083Z'
-author: []
-description: ''
-starred: false
-sourcePath: _posts/2016-04-22-duffy-days.md
-published: true
 inFeed: true
 hasPage: false
 inNav: false
-_type: MediaObject
+isBasedOnUrl: null
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-04-22T20:04:37.436Z'
+dateModified: '2016-04-22T20:04:19.692Z'
+title: Duffy Days
+author: []
+sourcePath: _posts/2016-04-22-duffy-days.md
+published: true
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
+_type: Blurb
 
 ---
 # Duffy Days
